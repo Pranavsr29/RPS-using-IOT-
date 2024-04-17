@@ -26,3 +26,5 @@ Ultrasonic sensor connections
 Buzzer connections
 1)-ve to -ve
 2)+ve to digital 12 
+
+can use my tinkercad to refer:-https://www.tinkercad.com/things/7p4OOaUQqRW-fantabulous-maimu-lappi/editel
